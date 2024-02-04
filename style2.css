@@ -1,0 +1,23 @@
+.black{
+    background-color: black;
+    
+}
+.black1{
+    background-color: black;
+    min-height: 50vh;
+}
+.white{
+    color: white;
+}
+.img
+{
+    padding-left: 120%;
+    padding-top: 5%;
+}
+.icon
+{
+    font-size: 250%;
+}
+.btn{
+padding: 30%;
+}
